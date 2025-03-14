@@ -1,4 +1,4 @@
-FROM openjdk:8u151-jdk-alpine3.7
+FROM docker.io/adoptopenjdk/openjdk11
 
 EXPOSE 8070
 
